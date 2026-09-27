@@ -13,8 +13,8 @@
 | 🧠 CPU Usage | **0%** |
 | 🌡️ CPU Temperature | **20°C** |
 | 🧬 RAM Usage | **2.7Gi / 31Gi (9%)** |
-| ⏱️ Uptime | **3 days, 5 minutes** |
-| ⚙️ Load Average | **0.06, 0.05, 0.02** |
+| ⏱️ Uptime | **3 days, 6 minutes** |
+| ⚙️ Load Average | **0.03, 0.04, 0.02** |
 
 ---
 
