@@ -6,7 +6,7 @@ _A lightweight Xubuntu-powered development and self-hosting server._
 
 **Automatically updated every 2 hours**
 
-_Last updated: **27 Sep 2026 • 04:00 PM IST**_
+_Last updated: **27 Sep 2026 • 06:01 PM IST**_
 
 </div>
 
@@ -17,7 +17,7 @@ _Last updated: **27 Sep 2026 • 04:00 PM IST**_
 | Resource | Usage |
 |----------|-------|
 | **CPU** | [░░░░░░░░░░] 0% |
-| **RAM** | [░░░░░░░░░░] 9% |
+| **RAM** | [░░░░░░░░░░] 8% |
 | **SSD (/)** | [█░░░░░░░░░] 18% |
 | **DATA Drive** | [░░░░░░░░░░] 4% |
 
@@ -29,9 +29,9 @@ _Last updated: **27 Sep 2026 • 04:00 PM IST**_
 |--------|------|
 | 🧠 CPU Usage | **0%** |
 | 🌡️ CPU Temperature | **20°C** |
-| 💾 RAM Usage | **2.7Gi / 31.2Gi (9%)** |
-| ⏱️ Uptime | **3 days, 13 minutes** |
-| ⚙️ Load Average | **0.08, 0.06, 0.01** |
+| 💾 RAM Usage | **2.6Gi / 31.2Gi (8%)** |
+| ⏱️ Uptime | **3 days, 2 hours, 13 minutes** |
+| ⚙️ Load Average | **0.05, 0.03, 0.00** |
 
 ---
 
@@ -39,7 +39,7 @@ _Last updated: **27 Sep 2026 • 04:00 PM IST**_
 
 | Mount Point | Usage |
 |-------------|------|
-| **SSD — /** | **39G / 233G (18%)** |
+| **SSD — /** | **40G / 233G (18%)** |
 | **DATA — /srv/data** | **13G / 407G (4%)** |
 
 ---
