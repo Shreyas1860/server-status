@@ -2,7 +2,7 @@
 
 > Automatically updated every **2 hours** from my Xubuntu homelab server.
 
-**Last Updated:** 27 Sep 2026 • 03:53 PM IST
+**Last Updated:** 27 Sep 2026 • 03:55 PM IST
 
 ---
 
@@ -13,8 +13,8 @@
 | 🧠 CPU Usage | **0%** |
 | 🌡️ CPU Temperature | **20°C** |
 | 🧬 RAM Usage | **2.7Gi / 31Gi (9%)** |
-| ⏱️ Uptime | **3 days, 6 minutes** |
-| ⚙️ Load Average | **0.03, 0.04, 0.02** |
+| ⏱️ Uptime | **3 days, 8 minutes** |
+| ⚙️ Load Average | **0.00, 0.02, 0.00** |
 
 ---
 
