@@ -1,55 +1,79 @@
-# 🖥️ Shuuri Homelab Server
+<div align="center">
 
-> Automatically updated every **2 hours** from my Xubuntu homelab server.
+# 🖥️ Shuuri Homelab
 
-**Last Updated:** 27 Sep 2026 • 03:55 PM IST
+_A lightweight Xubuntu-powered development and self-hosting server._
+
+**Automatically updated every 2 hours**
+
+_Last updated: **27 Sep 2026 • 04:00 PM IST**_
+
+</div>
 
 ---
 
-## 📊 System Status
+## 📊 Live System Status
+
+| Resource | Usage |
+|----------|-------|
+| **CPU** | [░░░░░░░░░░] 0% |
+| **RAM** | [░░░░░░░░░░] 9% |
+| **SSD (/)** | [█░░░░░░░░░] 18% |
+| **DATA Drive** | [░░░░░░░░░░] 4% |
+
+---
+
+## ⚡ System Metrics
 
 | Metric | Value |
 |--------|------|
 | 🧠 CPU Usage | **0%** |
 | 🌡️ CPU Temperature | **20°C** |
-| 🧬 RAM Usage | **2.7Gi / 31Gi (9%)** |
-| ⏱️ Uptime | **3 days, 8 minutes** |
-| ⚙️ Load Average | **0.00, 0.02, 0.00** |
+| 💾 RAM Usage | **2.7Gi / 31.2Gi (9%)** |
+| ⏱️ Uptime | **3 days, 13 minutes** |
+| ⚙️ Load Average | **0.08, 0.06, 0.01** |
 
 ---
 
-## 💾 Storage
+## 💿 Storage
 
-| Drive | Usage |
-|-------|------|
-| SSD (`/`) | **39G / 233G (18%)** |
-| DATA (`/srv/data`) | **13G / 407G (4%)** |
+| Mount Point | Usage |
+|-------------|------|
+| **SSD — /** | **39G / 233G (18%)** |
+| **DATA — /srv/data** | **13G / 407G (4%)** |
 
 ---
 
-## 🖥️ Server
+## 🛠️ Server Environment
 
 | Component | Status |
 |-----------|--------|
 | Operating System | **Ubuntu 26.04.1 LTS** |
 | Kernel | **7.0.0-34-generic** |
-| Docker Engine | **Running** |
-| Update Frequency | **Every 2 Hours** |
+| Docker Engine | **🟢 Online** |
+| Update Interval | **Every 2 Hours** |
 
 ---
 
-## 🛠️ Homelab Stack
+## 🚀 Homelab Overview
 
-This server powers my personal homelab and development environment.
+This machine is used as my personal development and self-hosting server.
 
-- Docker Containers
-- Node.js Projects
-- Portainer
-- Tailscale
-- Remote VS Code (SSH)
-- SMB File Sharing
-- XRDP Desktop Access
+### Services Hosted
+
+- 🐳 Docker & Docker Compose
+- 🟢 Node.js development environment
+- 🌐 Tailscale remote networking
+- 📁 Samba network file sharing
+- 🖥️ XRDP remote desktop
+- 💻 VS Code Remote SSH
 
 ---
 
-<sub>🤖 Generated automatically by <code>status.sh</code> running on the server via a systemd timer.</sub>
+<div align="center">
+
+**Built on Xubuntu 26.04 LTS**
+
+<sub>Generated automatically via Bash + systemd timer + GitHub SSH.</sub>
+
+</div>
