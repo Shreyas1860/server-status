@@ -6,7 +6,7 @@ _A lightweight Xubuntu-powered development and self-hosting server._
 
 **Automatically updated every 2 hours**
 
-_Last updated: **02 Nov 2026 • 03:57 PM IST**_
+_Last updated: **02 Nov 2026 • 05:58 PM IST**_
 
 </div>
 
@@ -30,8 +30,8 @@ _Last updated: **02 Nov 2026 • 03:57 PM IST**_
 | 🧠 CPU Usage | **0%** |
 | 🌡️ CPU Temperature | **20°C** |
 | 💾 RAM Usage | **3.2Gi / 31.2Gi (10%)** |
-| ⏱️ Uptime | **1 week, 2 days, 41 minutes** |
-| ⚙️ Load Average | **0.08, 0.06, 0.07** |
+| ⏱️ Uptime | **1 week, 2 days, 2 hours, 42 minutes** |
+| ⚙️ Load Average | **0.08, 0.05, 0.03** |
 
 ---
 
