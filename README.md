@@ -6,7 +6,7 @@ _A lightweight Xubuntu-powered development and self-hosting server._
 
 **Automatically updated every 2 hours**
 
-_Last updated: **15 Nov 2026 • 12:36 PM IST**_
+_Last updated: **16 Nov 2026 • 03:21 PM IST**_
 
 </div>
 
@@ -17,7 +17,7 @@ _Last updated: **15 Nov 2026 • 12:36 PM IST**_
 | Resource | Usage |
 |----------|-------|
 | **CPU** | [░░░░░░░░░░] 0% |
-| **RAM** | [░░░░░░░░░░] 7% |
+| **RAM** | [░░░░░░░░░░] 4% |
 | **SSD (/)** | [██░░░░░░░░] 25% |
 | **DATA Drive** | [░░░░░░░░░░] 4% |
 
@@ -29,9 +29,9 @@ _Last updated: **15 Nov 2026 • 12:36 PM IST**_
 |--------|------|
 | 🧠 CPU Usage | **0%** |
 | 🌡️ CPU Temperature | **20°C** |
-| 💾 RAM Usage | **2.2Gi / 31.2Gi (7%)** |
-| ⏱️ Uptime | **4 days, 12 hours, 15 minutes** |
-| ⚙️ Load Average | **0.13, 0.12, 0.10** |
+| 💾 RAM Usage | **1.2Gi / 31.2Gi (4%)** |
+| ⏱️ Uptime | **5 minutes** |
+| ⚙️ Load Average | **0.13, 0.55, 0.33** |
 
 ---
 
@@ -49,7 +49,7 @@ _Last updated: **15 Nov 2026 • 12:36 PM IST**_
 | Component | Status |
 |-----------|--------|
 | Operating System | **Ubuntu 26.04.1 LTS** |
-| Kernel | **7.0.0-42-generic** |
+| Kernel | **7.0.0-43-generic** |
 | Docker Engine | **🟢 Online** |
 | Update Interval | **Every 2 Hours** |
 
